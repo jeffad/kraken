@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+    font-family: cursive;
+}
+h3 {
+    color: blue;
+    text-align: center;
+    margin-top: 0px
+}
+
+img {
+    margin-top: 20px;
+    margin-left: 0%
+}
+
+.navbar {
+    margin-right: 0%;
+}
+
+.kraken {
+    margin-left: 38%;
+}
